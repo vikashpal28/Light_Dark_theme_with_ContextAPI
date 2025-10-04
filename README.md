@@ -60,7 +60,7 @@ dark_and_light_mode/
 Start the development server:
 
 ```bash
-pnpm run dev
+pnpm dev
 # or
 npm run dev
 # or
